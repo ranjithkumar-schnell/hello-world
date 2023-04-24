@@ -12,7 +12,7 @@ This is a test repository created for getting started with Github
 ### General Information
 - Test git functionality such as Push ,Pull,Merge etc.
 - Planning to use simple excel or Text file to manage the above said operations.
-- After getting Familiaria with the Git Will try to Upload simple code and manage/collabrate that code
+- After getting Familiar with the Git Will try to Upload simple code and manage/collabrate that code
 
 ### Technology Used
 - First planning to use Excel,libre Calc or Notepad.
