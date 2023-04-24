@@ -13,7 +13,7 @@ This is a test repository created for getting started with Github
 - Test git functionality such as Push ,Pull,Merge etc.
 - Planning to use simple excel or Text file to manage the above said operations.
 - After getting Familiar with the Git Will try to Upload simple code and manage/collabrate that code.
-- This website link was used as Reference to create hyperlinks and Fromatting [_Link_](https://github.com/ritaly/README-cheatsheet/edit/master/README.md).
+- This website link was used as Reference to create hyperlinks and Fromatting   [_Link_](https://github.com/ritaly/README-cheatsheet/edit/master/README.md).
 
 
 
