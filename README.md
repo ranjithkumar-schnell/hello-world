@@ -25,7 +25,7 @@ This is a test repository created for getting started with Github
 
 
 ### Features Used
-- As of now no New feature available, will add things as project progresses.
+- As of now ,No New feature available, will add things as project progresses.
 
 ### Screen Shot
 - At present this Feild is empty
