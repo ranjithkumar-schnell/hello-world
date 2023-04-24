@@ -25,7 +25,7 @@ This is a test repository created for getting started with Github
 - At present this Feild is empty
 
 ### Setup
-- Setup procrdure and Hyperlinks will be shared in this section shortly.
+- Setup procedure and Hyperlinks will be shared in this section shortly.
 
 ### Improvements
 
