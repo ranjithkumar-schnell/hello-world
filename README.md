@@ -13,14 +13,29 @@ This is a test repository created for getting started with Github
 - Test git functionality such as Push ,Pull,Merge etc.
 - Planning to use simple excel or Text file to manage the above said operations.
 - After getting Familiar with the Git Will try to Upload simple code and manage/collabrate that code.
-- This website link was used as Reference to create hyperlinks and Fromatting   [_Link_](https://github.com/ritaly/README-cheatsheet/edit/master/README.md).
+
+
+
 
 ### Technology Used
 - First planning to use Excel,libre Calc or Notepad.
 - After getting familiar with git using above tech, will move on to code from Nuvoton using Keil.
 
+
+
+
 ### Features Used
 - As of now ,No New feature available, will add things as project progresses.
 
+### Screen Shot
+- At present this Feild is empty
+- ![start](https://user-images.githubusercontent.com/124969600/233959613-12242099-13d7-4153-b06e-fbbe6f88f13e.png)
 
+
+### Setup
+- Setup procedure and Hyperlinks will be shared in this section shortly.
+
+### Improvements
+
+- Same as before, will update shortly.
  
