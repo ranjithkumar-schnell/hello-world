@@ -30,7 +30,7 @@ This is a test repository created for getting started with Github
 - As of now ,No New feature available, will add things as project progresses.
 
 ### Screen Shot
-- At present this Feild is empty
+![Example Screenshot](C:\Users\Schnell\Pictures)
 
 ### Setup
 - Setup procedure and Hyperlinks will be shared in this section shortly.
