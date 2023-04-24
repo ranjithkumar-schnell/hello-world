@@ -16,4 +16,4 @@ This is a test repository created for getting started with Github
 
 ### Technology Used
 - First planning to use Excel,libre Calc or Notepad.
-- After getting familiar with gi using above tech will move on to code from nuvoton using Keil.
+- After getting familiar with git using above tech, will move on to code from Nuvoton using Keil.
