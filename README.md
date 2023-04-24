@@ -21,13 +21,13 @@ This is a test repository created for getting started with Github
 ### Features Used
 - As of now no New feature available will add things as project progresses.
 
-### Screen -Shot
+### Screen Shot
 - At present this Feild is empty
 
 ### Setup
--Setup procrdure and Hyperlinks will be shared in this section shortly.
+- Setup procrdure and Hyperlinks will be shared in this section shortly.
 
-### Improvemets
+### Improvements
 
 - Same as before, will update shortly.
  
