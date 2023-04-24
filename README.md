@@ -10,5 +10,5 @@ This is a test repository created for getting started with Github
 
 
 ### General Information
-- Test git functionality such as push ,Pull,Merge etc.
+- Test git functionality such as Push ,Pull,Merge etc.
 
