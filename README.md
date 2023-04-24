@@ -4,6 +4,10 @@ This is a test repository created for getting started with Github
 ## Table of Contents
 * [General info](#general-information)
 * [Technology used](#technology-used)
+* [Features](#Features-used)
+* [ScreenShot](#Screen-Shot)
+* [Setup](#Setup)
+* [Improvements](#Improvements)
 
 
 
