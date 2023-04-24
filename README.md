@@ -9,11 +9,6 @@ This is a test repository created for getting started with Github
 * [Setup](#Setup)
 * [Improvements](#Improvements)
 
-
-
-
-
-
 ### General Information
 - Test git functionality such as Push ,Pull,Merge etc.
 - Planning to use simple excel or Text file to manage the above said operations.
