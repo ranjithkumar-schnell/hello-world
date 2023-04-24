@@ -23,7 +23,7 @@ This is a test repository created for getting started with Github
 - As of now ,No New feature available, will add things as project progresses.
 
 ### Screen Shot
-![Example Screenshot](C:\Users\Schnell\Pictures)
+![start](https://user-images.githubusercontent.com/124969600/233956811-8949a7bd-bdf4-4318-979a-ad6f72127b1d.png)
 
 ### Setup
 - Setup procedure and Hyperlinks will be shared in this section shortly.
